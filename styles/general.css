@@ -1,0 +1,22 @@
+
+  body{
+    font-family: Roboto,Arial;
+    padding: 100px 24px 15px 96px;
+    background-color: rgb(255, 255, 255);
+  }
+
+  /* @media  (max-width:949px) {
+    body {
+      padding-left: 20px ;
+    }
+  } */
+
+  @media  (max-width:1500px) {
+    body {
+      padding-top: 40px;
+    }
+  }
+
+
+
+  
